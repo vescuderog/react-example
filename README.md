@@ -1,5 +1,6 @@
 # React Example
 
+![Node.js CI](https://github.com/vescuderog/react-example/workflows/Node.js%20CI/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Basic example of a component-based React app.
